@@ -37,7 +37,7 @@ Make sure Python is installed on your computer.
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/AryaSannigrahi30/Contact-Book.git
+git clone https://github.com/AryaSannigrahi30/Contact.git
 ```
 
 Open the project folder:
